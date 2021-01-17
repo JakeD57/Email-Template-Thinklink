@@ -1,6 +1,7 @@
 # Email-Template-Thinklink
 Promotional email template made for a company I made up called Think Link. 
 Designs were all made in Canva. ThinkLink, the next big P2P netowrking platform!  
+
 [Link to Live Preview!](https://htmlpreview.github.io/?https://github.com/JakeD57/Email-Template-Thinklink/blob/master/index.html)
 
 <hr>
